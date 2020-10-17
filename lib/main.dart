@@ -23,7 +23,7 @@ class Ball extends StatefulWidget {
   @override
   _BallState createState() => _BallState();
 }
-
+//8 magic ball
 class _BallState extends State<Ball> {
   int number=1;
   @override
